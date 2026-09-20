@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://e.erw.cc/all.xml.gz"
 
-#EXTINF:-1 tvg-id="15" group-title="央视频道",CCTV14 少儿
+#EXTINF:-1 tvg-id="15" group-title="少儿动画",CCTV14 少儿
 http://112.123.243.37:50085/tsfile/live/0015_1.m3u8
-#EXTINF:-1 tvg-id="15" group-title="央视频道",CCTV14 少儿
+#EXTINF:-1 tvg-id="15" group-title="少儿动画",CCTV14 少儿
 http://139.227.221.147:9901/tsfile/live/0014_1.m3u8
 #EXTINF:-1 tvg-id="BESTV-4K" group-title="少儿动画",BESTV-4K
 http://125.125.134.120:8888/rtp/233.50.200.183:5140
