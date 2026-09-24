@@ -132,24 +132,22 @@ http://xurishangcheng.top:10888/udp/239.49.1.65:8000
 
 #EXTINF:-1 tvg-id="26" group-title="体育频道",CCTV4K
 http://58.37.164.52:4000/rtp/233.18.204.188:5140
+#EXTINF:-1 tvg-id="5" group-title="体育频道",CCTV5 体育
+http://183.129.255.66:8480/hls/5/index.m3u8
+#EXTINF:-1 tvg-id="5" group-title="体育频道",CCTV5 体育
+http://58.37.164.52:4000/rtp/233.18.204.71:5140
+#EXTINF:-1 tvg-id="5" group-title="体育频道",CCTV5 体育
+http://125.123.141.122:44022/rtp/233.50.201.197:5140
+#EXTINF:-1 tvg-id="6" group-title="体育频道",CCTV5+ 体育赛事
+http://183.129.255.66:8480/hls/6/index.m3u8
+#EXTINF:-1 tvg-id="6" group-title="体育频道",CCTV5+ 体育赛事
+http://58.37.164.52:4000/rtp/233.18.204.67:5140
+#EXTINF:-1 tvg-id="6" group-title="体育频道",CCTV5+ 体育赛事
+http://125.123.141.122:44022/rtp/233.50.201.220:5140
 #EXTINF:-1 tvg-id="17" group-title="体育频道",CCTV16 奥林匹克
 http://58.37.164.52:4000/rtp/233.18.204.114:5140
 #EXTINF:-1 tvg-id="17" group-title="体育频道",CCTV16 奥林匹克
 http://183.129.255.66:8480/hls/17/index.m3u8
-#EXTINF:-1 tvg-id="17" group-title="体育频道",CCTV16 奥林匹克
-http://58.37.164.52:4000/rtp/233.18.204.82:5140
-#EXTINF:-1 tvg-id="5" group-title="体育频道",CCTV5 体育
-http://183.129.255.66:8480/hls/5/index.m3u8
-#EXTINF:-1 tvg-id="5" group-title="体育频道",CCTV5 体育
-http://112.30.73.119:9901/tsfile/live/0005_2.m3u8
-#EXTINF:-1 tvg-id="5" group-title="体育频道",CCTV5 体育
-http://58.37.164.52:4000/rtp/233.18.204.71:5140
-#EXTINF:-1 tvg-id="6" group-title="体育频道",CCTV5+ 体育赛事
-http://183.129.255.66:8480/hls/6/index.m3u8
-#EXTINF:-1 tvg-id="6" group-title="体育频道",CCTV5+ 体育赛事
-http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
-#EXTINF:-1 tvg-id="6" group-title="体育频道",CCTV5+ 体育赛事
-http://58.37.164.52:4000/rtp/233.18.204.67:5140
 
 #EXTINF:-1 tvg-id="144" group-title="体育频道",风云足球
 http://180.157.159.50:34022/rtp/233.18.204.176:5140
@@ -169,5 +167,11 @@ http://183.129.255.66:8480/hls/49/index.m3u8
 http://58.37.164.52:4000/rtp/233.18.204.113:5140
 #EXTINF:-1 tvg-id="135" group-title="少儿动画",卡酷少儿
 http://58.37.164.52:4000/rtp/233.18.204.109:5140
+#EXTINF:-1 tvg-id="135" group-title="少儿动画",北京KAKU少儿
+http://125.123.141.122:44022/rtp/233.50.202.33:5140
 #EXTINF:-1 tvg-id="205" group-title="少儿动画",浙江少儿
 http://183.129.255.66:8480/hls/23/index.m3u8
+#EXTINF:-1 tvg-id="205" group-title="少儿动画",浙江少儿
+http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="少儿动画",哆啦A梦
+http://footyun.top:35455/huya/11601963
