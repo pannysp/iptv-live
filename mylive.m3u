@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://e.erw.cc/all.xml.gz"
+#EXTM3U x-tvg-url="https://wget.la/https://raw.githubusercontent.com/kuke31/xmlgz/main/e.xml.gz"
 
 #EXTINF:-1 tvg-id="1" group-title="央视频道",CCTV1 综合
 http://183.129.255.66:8480/hls/1/index.m3u8
