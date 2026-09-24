@@ -108,7 +108,7 @@ http://58.37.164.52:4000/rtp/233.18.204.88:5140
 http://183.129.255.66:8480/hls/34/index.m3u8
 #EXTINF:-1 tvg-id="83" group-title="卫视频道",深圳卫视
 http://58.37.164.52:4000/rtp/233.18.204.89:5140
-#EXTINF:-1 tvg-id="83" group-title="卫视频道",江西卫视
+#EXTINF:-1 tvg-id="95" group-title="卫视频道",江西卫视
 http://58.37.164.52:4000/rtp/233.18.204.95:5140
 
 
@@ -116,18 +116,36 @@ http://58.37.164.52:4000/rtp/233.18.204.95:5140
 http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 #EXTINF:-1 tvg-id="88" group-title="4K频道",浙江卫视
 http://xurishangcheng.top:10888/udp/239.49.1.63:8000
+#EXTINF:-1 tvg-id="88" group-title="4K频道",浙江卫视
+http://115.194.117.86:9999/4K超高清/浙江卫视4K?cors
 #EXTINF:-1 tvg-id="81" group-title="4K频道",湖南卫视
 http://xurishangcheng.top:10888/udp/239.49.1.67:8000
+#EXTINF:-1 tvg-id="81" group-title="4K频道",湖南卫视
+http://115.194.117.86:9999/4K超高清/湖南卫视4K?cors
 #EXTINF:-1 tvg-id="91" group-title="4K频道",江苏卫视
 http://xurishangcheng.top:10888/udp/239.49.1.61:8000
+#EXTINF:-1 tvg-id="91" group-title="4K频道",江苏卫视
+http://115.194.117.86:9999/4K超高清/江苏卫视4K?cors
 #EXTINF:-1 tvg-id="80" group-title="4K频道",东方卫视
 http://xurishangcheng.top:10888/udp/239.49.1.69:8000
+#EXTINF:-1 tvg-id="80" group-title="4K频道",东方卫视
+http://115.194.117.86:9999/4K超高清/东方卫视4K?cors
 #EXTINF:-1 tvg-id="90" group-title="4K频道",北京卫视
 http://xurishangcheng.top:10888/udp/239.49.0.42:8000
+#EXTINF:-1 tvg-id="90" group-title="4K频道",北京卫视
+http://115.194.117.86:9999/4K超高清/北京卫视4K?cors
 #EXTINF:-1 tvg-id="89" group-title="4K频道",山东卫视
 http://xurishangcheng.top:10888/udp/239.49.1.71:8000
+#EXTINF:-1 tvg-id="89" group-title="4K频道",山东卫视
+http://115.194.117.86:9999/4K超高清/山东卫视4K?cors
 #EXTINF:-1 tvg-id="78" group-title="4K频道",四川卫视
 http://xurishangcheng.top:10888/udp/239.49.1.65:8000
+#EXTINF:-1 tvg-id="78" group-title="4K频道",四川卫视
+http://115.194.117.86:9999/4K超高清/四川卫视4K?cors
+#EXTINF:-1 tvg-id="82" group-title="4K频道",广东卫视
+http://115.194.117.86:9999/4K超高清/广东卫视4K?cors
+#EXTINF:-1 tvg-id="83" group-title="4K频道",深圳卫视
+http://115.194.117.86:9999/4K超高清/深圳卫视4K?cors
 
 
 #EXTINF:-1 tvg-id="26" group-title="体育频道",CCTV4K
@@ -148,6 +166,8 @@ http://125.123.141.122:44022/rtp/233.50.201.220:5140
 http://58.37.164.52:4000/rtp/233.18.204.114:5140
 #EXTINF:-1 tvg-id="17" group-title="体育频道",CCTV16 奥林匹克
 http://183.129.255.66:8480/hls/17/index.m3u8
+#EXTINF:-1 tvg-id="17" group-title="体育频道",CCTV16 奥林匹克
+http://115.194.117.86:9999/央视高清/CCTV16奥林匹克4K?cors
 
 #EXTINF:-1 tvg-id="144" group-title="体育频道",风云足球
 http://180.157.159.50:34022/rtp/233.18.204.176:5140
