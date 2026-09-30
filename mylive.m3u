@@ -1,76 +1,76 @@
 #EXTM3U x-tvg-url="https://wget.la/https://raw.githubusercontent.com/kuke31/xmlgz/main/e.xml.gz"
 
-#EXTINF:-1 tvg-id="1" group-title="央视频道",CCTV1 综合
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="央视频道",CCTV1 综合
 http://183.129.255.66:8480/hls/1/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="央视频道",CCTV1 综合
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="央视频道",CCTV1 综合
 http://125.123.141.122:44022/rtp/233.50.201.118:5140
-#EXTINF:-1 tvg-id="1" group-title="央视频道",CCTV1 综合
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="央视频道",CCTV1 综合
 http://xurishangcheng.top:10888/rtp/239.49.8.19:9614
-#EXTINF:-1 tvg-id="2" group-title="央视频道",CCTV2 财经
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" group-title="央视频道",CCTV2 财经
 http://183.129.255.66:8480/hls/2/index.m3u8
-#EXTINF:-1 tvg-id="2" group-title="央视频道",CCTV2 财经
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" group-title="央视频道",CCTV2 财经
 http://125.123.141.122:44022/rtp/233.50.201.119:5140
-#EXTINF:-1 tvg-id="2" group-title="央视频道",CCTV2 财经
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" group-title="央视频道",CCTV2 财经
 http://xurishangcheng.top:10888/rtp/239.49.8.50:9802
-#EXTINF:-1 tvg-id="3" group-title="央视频道",CCTV3 综艺
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" group-title="央视频道",CCTV3 综艺
 http://183.129.255.66:8480/hls/3/index.m3u8
-#EXTINF:-1 tvg-id="3" group-title="央视频道",CCTV3 综艺
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" group-title="央视频道",CCTV3 综艺
 http://125.123.141.122:44022/rtp/233.50.201.196:5140
-#EXTINF:-1 tvg-id="3" group-title="央视频道",CCTV3 综艺
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" group-title="央视频道",CCTV3 综艺
 http://xurishangcheng.top:10888/rtp/239.49.8.74:8000
-#EXTINF:-1 tvg-id="4" group-title="央视频道",CCTV4 中文国际
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" group-title="央视频道",CCTV4 中文国际
 http://183.129.255.66:8480/hls/4/index.m3u8
-#EXTINF:-1 tvg-id="4" group-title="央视频道",CCTV4 中文国际
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" group-title="央视频道",CCTV4 中文国际
 http://125.123.141.122:44022/rtp/233.50.200.101:5140
-#EXTINF:-1 tvg-id="4" group-title="央视频道",CCTV4 中文国际
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" group-title="央视频道",CCTV4 中文国际
 http://xurishangcheng.top:10888/rtp/239.49.8.51:9806
-#EXTINF:-1 tvg-id="7" group-title="央视频道",CCTV6 电影
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" group-title="央视频道",CCTV6 电影
 http://183.129.255.66:8480/hls/7/index.m3u8
-#EXTINF:-1 tvg-id="7" group-title="央视频道",CCTV6 电影
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" group-title="央视频道",CCTV6 电影
 http://125.123.141.122:44022/rtp/233.50.201.198:5140
-#EXTINF:-1 tvg-id="7" group-title="央视频道",CCTV6 电影
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" group-title="央视频道",CCTV6 电影
 http://xurishangcheng.top:10888/rtp/239.49.8.76:8000
-#EXTINF:-1 tvg-id="8" group-title="央视频道",CCTV7 国防军事
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" group-title="央视频道",CCTV7 国防军事
 http://183.129.255.66:8480/hls/8/index.m3u8
-#EXTINF:-1 tvg-id="8" group-title="央视频道",CCTV7 国防军事
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" group-title="央视频道",CCTV7 国防军事
 http://125.123.141.122:44022/rtp/233.50.201.120:5140
-#EXTINF:-1 tvg-id="8" group-title="央视频道",CCTV7 国防军事
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" group-title="央视频道",CCTV7 国防军事
 http://xurishangcheng.top:10888/rtp/239.49.0.126:8000
-#EXTINF:-1 tvg-id="9" group-title="央视频道",CCTV8 电视剧
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" group-title="央视频道",CCTV8 电视剧
 http://183.129.255.66:8480/hls/9/index.m3u8
-#EXTINF:-1 tvg-id="9" group-title="央视频道",CCTV8 电视剧
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" group-title="央视频道",CCTV8 电视剧
 http://125.123.141.122:44022/rtp/233.50.201.199:5140
-#EXTINF:-1 tvg-id="9" group-title="央视频道",CCTV8 电视剧
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" group-title="央视频道",CCTV8 电视剧
 http://xurishangcheng.top:10888/rtp/239.49.8.77:8000
-#EXTINF:-1 tvg-id="10" group-title="央视频道",CCTV9 纪录
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" group-title="央视频道",CCTV9 纪录
 http://183.129.255.66:8480/hls/10/index.m3u8
-#EXTINF:-1 tvg-id="10" group-title="央视频道",CCTV9 纪录
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" group-title="央视频道",CCTV9 纪录
 http://125.123.141.122:44022/rtp/233.50.201.121:5140
-#EXTINF:-1 tvg-id="10" group-title="央视频道",CCTV9 纪录
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" group-title="央视频道",CCTV9 纪录
 http://xurishangcheng.top:10888/rtp/239.49.8.53:9814
-#EXTINF:-1 tvg-id="11" group-title="央视频道",CCTV10 科教
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" group-title="央视频道",CCTV10 科教
 http://183.129.255.66:8480/hls/11/index.m3u8
-#EXTINF:-1 tvg-id="11" group-title="央视频道",CCTV10 科教
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" group-title="央视频道",CCTV10 科教
 http://125.123.141.122:44022/rtp/233.50.201.122:5140
-#EXTINF:-1 tvg-id="11" group-title="央视频道",CCTV10 科教
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" group-title="央视频道",CCTV10 科教
 http://xurishangcheng.top:10888/rtp/239.49.8.54:9818
-#EXTINF:-1 tvg-id="13" group-title="央视频道",CCTV12 社会与法
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" group-title="央视频道",CCTV12 社会与法
 http://183.129.255.66:8480/hls/13/index.m3u8
-#EXTINF:-1 tvg-id="13" group-title="央视频道",CCTV12 社会与法
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" group-title="央视频道",CCTV12 社会与法
 http://125.123.141.122:44022/rtp/233.50.201.123:5140
-#EXTINF:-1 tvg-id="13" group-title="央视频道",CCTV12 社会与法
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" group-title="央视频道",CCTV12 社会与法
 http://xurishangcheng.top:10888/rtp/239.49.8.55:9822
-#EXTINF:-1 tvg-id="14" group-title="央视频道",CCTV13 新闻
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" group-title="央视频道",CCTV13 新闻
 http://183.129.255.66:8480/hls/14/index.m3u8
-#EXTINF:-1 tvg-id="14" group-title="央视频道",CCTV13 新闻
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" group-title="央视频道",CCTV13 新闻
 http://125.123.141.122:44022/rtp/233.50.201.246:5140
-#EXTINF:-1 tvg-id="14" group-title="央视频道",CCTV13 新闻
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" group-title="央视频道",CCTV13 新闻
 http://xurishangcheng.top:10888/rtp/239.49.8.109:8000
-#EXTINF:-1 tvg-id="18" group-title="央视频道",CCTV17 农业农村
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" group-title="央视频道",CCTV17 农业农村
 http://183.129.255.66:8480/hls/18/index.m3u8
-#EXTINF:-1 tvg-id="18" group-title="央视频道",CCTV17 农业农村
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" group-title="央视频道",CCTV17 农业农村
 http://125.123.141.122:44022/rtp/233.50.200.113:5140
-#EXTINF:-1 tvg-id="18" group-title="央视频道",CCTV17 农业农村
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" group-title="央视频道",CCTV17 农业农村
 http://xurishangcheng.top:10888/rtp/239.49.8.52:9810
 
 
@@ -156,43 +156,43 @@ http://125.123.141.122:44022/rtp/233.50.201.102:5140
 http://xurishangcheng.top:10888/rtp/239.49.8.13:9422
 
 
-#EXTINF:-1 tvg-id="88" group-title="4K频道",浙江卫视 4K
+#EXTINF:-1 tvg-id="88" tvg-name="浙江卫视" group-title="4K频道",浙江卫视 4K
 http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
-#EXTINF:-1 tvg-id="88" group-title="4K频道",浙江卫视 4K
+#EXTINF:-1 tvg-id="88" tvg-name="浙江卫视" group-title="4K频道",浙江卫视 4K
 http://xurishangcheng.top:10888/rtp/239.49.1.63:8000
-#EXTINF:-1 tvg-id="88" group-title="4K频道",浙江卫视 4K
+#EXTINF:-1 tvg-id="88" tvg-name="浙江卫视" group-title="4K频道",浙江卫视 4K
 http://218.1.145.110:30100/rtp/233.18.204.229:5140
-#EXTINF:-1 tvg-id="81" group-title="4K频道",湖南卫视 4K
+#EXTINF:-1 tvg-id="81" tvg-name="湖南卫视" group-title="4K频道",湖南卫视 4K
 http://xurishangcheng.top:10888/rtp/239.49.1.67:8000
-#EXTINF:-1 tvg-id="81" group-title="4K频道",湖南卫视 4K
+#EXTINF:-1 tvg-id="81" tvg-name="湖南卫视" group-title="4K频道",湖南卫视 4K
 http://218.1.145.110:30100/rtp/233.18.204.227:5140
-#EXTINF:-1 tvg-id="91" group-title="4K频道",江苏卫视 4K
+#EXTINF:-1 tvg-id="91" tvg-name="江苏卫视" group-title="4K频道",江苏卫视 4K
 http://xurishangcheng.top:10888/rtp/239.49.1.61:8000
-#EXTINF:-1 tvg-id="91" group-title="4K频道",江苏卫视 4K
+#EXTINF:-1 tvg-id="91" tvg-name="江苏卫视" group-title="4K频道",江苏卫视 4K
 http://218.1.145.110:30100/rtp/233.18.204.226:5140
-#EXTINF:-1 tvg-id="80" group-title="4K频道",东方卫视 4K
+#EXTINF:-1 tvg-id="80" tvg-name="东方卫视" group-title="4K频道",东方卫视 4K
 http://xurishangcheng.top:10888/rtp/239.49.1.69:8000
-#EXTINF:-1 tvg-id="80" group-title="4K频道",东方卫视 4K
+#EXTINF:-1 tvg-id="80" tvg-name="东方卫视" group-title="4K频道",东方卫视 4K
 http://218.1.145.110:30100/rtp/233.18.204.224:5140
-#EXTINF:-1 tvg-id="90" group-title="4K频道",北京卫视 4K
+#EXTINF:-1 tvg-id="90" tvg-name="北京卫视" group-title="4K频道",北京卫视 4K
 http://xurishangcheng.top:10888/rtp/239.49.0.42:8000
-#EXTINF:-1 tvg-id="90" group-title="4K频道",北京卫视 4K
+#EXTINF:-1 tvg-id="90" tvg-name="北京卫视" group-title="4K频道",北京卫视 4K
 http://218.1.145.110:30100/rtp/233.18.204.209:5140
-#EXTINF:-1 tvg-id="89" group-title="4K频道",山东卫视 4K
+#EXTINF:-1 tvg-id="89" tvg-name="山东卫视" group-title="4K频道",山东卫视 4K
 http://xurishangcheng.top:10888/rtp/239.49.1.71:8000
-#EXTINF:-1 tvg-id="89" group-title="4K频道",山东卫视 4K
+#EXTINF:-1 tvg-id="89" tvg-name="山东卫视" group-title="4K频道",山东卫视 4K
 http://218.1.145.110:30100/rtp/233.18.204.228:5140
-#EXTINF:-1 tvg-id="78" group-title="4K频道",四川卫视 4K
+#EXTINF:-1 tvg-id="78" tvg-name="四川卫视" group-title="4K频道",四川卫视 4K
 http://xurishangcheng.top:10888/rtp/239.49.1.65:8000
-#EXTINF:-1 tvg-id="78" group-title="4K频道",四川卫视 4K
+#EXTINF:-1 tvg-id="78" tvg-name="四川卫视" group-title="4K频道",四川卫视 4K
 http://218.1.145.110:30100/rtp/233.18.204.225:5140
-#EXTINF:-1 tvg-id="82" group-title="4K频道",广东卫视 4K
+#EXTINF:-1 tvg-id="82" tvg-name="广东卫视" group-title="4K频道",广东卫视 4K
 http://xurishangcheng.top:10888/rtp/239.49.1.24:8000
-#EXTINF:-1 tvg-id="82" group-title="4K频道",广东卫视 4K
+#EXTINF:-1 tvg-id="82" tvg-name="广东卫视" group-title="4K频道",广东卫视 4K
 http://218.1.145.110:30100/rtp/233.18.204.218:5140
-#EXTINF:-1 tvg-id="83" group-title="4K频道",深圳卫视 4K
+#EXTINF:-1 tvg-id="83" tvg-name="深圳卫视" group-title="4K频道",深圳卫视 4K
 http://xurishangcheng.top:10888/rtp/239.49.1.27:8000
-#EXTINF:-1 tvg-id="83" group-title="4K频道",深圳卫视 4K
+#EXTINF:-1 tvg-id="83" tvg-name="深圳卫视" group-title="4K频道",深圳卫视 4K
 http://218.1.145.110:30100/rtp/233.18.204.219:5140
 
 
