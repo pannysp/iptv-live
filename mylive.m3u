@@ -73,7 +73,7 @@ http://125.123.141.122:44022/rtp/233.50.200.113:5140
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" group-title="央视频道",CCTV17 农业农村
 http://xurishangcheng.top:10888/rtp/239.49.8.52:9810
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" group-title="央视频道",CCTV17 农业农村
-http://60.168.64.102:8888/rtp/238.1.78.178:7296
+http://183.162.104.35:8888/rtp/238.1.78.178:7296
 
 
 #EXTINF:-1 tvg-id="88" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
@@ -163,7 +163,7 @@ http://xurishangcheng.top:10888/rtp/239.49.0.82:8000
 #EXTINF:-1 tvg-id="26" tvg-name="CCTV4K" group-title="4K频道",CCTV 4K
 http://49.79.196.232:8800/rtp/239.49.0.82:8000
 #EXTINF:-1 tvg-id="26" tvg-name="CCTV4K" group-title="4K频道",CCTV 4K
-http://60.168.64.102:8888/rtp/238.1.79.23:4296
+http://183.162.104.35:8888/rtp/238.1.79.23:4296
 #EXTINF:-1 tvg-id="88" tvg-name="浙江卫视" group-title="4K频道",浙江卫视 4K
 http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 #EXTINF:-1 tvg-id="88" tvg-name="浙江卫视" group-title="4K频道",浙江卫视 4K
@@ -238,7 +238,7 @@ http://180.165.6.63:8888/rtp/233.18.204.176:5140
 #EXTINF:-1 tvg-id="144" tvg-name="风云足球" group-title="体育频道",CCTV 风云足球
 http://218.1.145.110:30100/rtp/233.18.204.176:5140
 #EXTINF:-1 tvg-id="144" tvg-name="风云足球" group-title="体育频道",CCTV 风云足球
-http://60.168.64.102:8888/rtp/238.1.79.57:4592
+http://183.162.104.35:8888/rtp/238.1.79.57:4592
 #EXTINF:-1 tvg-id="170" tvg-name="五星体育" group-title="体育频道",五星体育
 http://180.165.6.63:8888/rtp/233.18.204.58:5140
 #EXTINF:-1 tvg-id="170" tvg-name="五星体育" group-title="体育频道",五星体育
