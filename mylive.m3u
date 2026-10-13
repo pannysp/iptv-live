@@ -161,49 +161,47 @@ http://xurishangcheng.top:10888/rtp/239.49.8.13:9422
 #EXTINF:-1 tvg-id="26" tvg-name="CCTV4K" group-title="4K频道",CCTV 4K
 http://xurishangcheng.top:10888/rtp/239.49.0.82:8000
 #EXTINF:-1 tvg-id="26" tvg-name="CCTV4K" group-title="4K频道",CCTV 4K
-http://49.79.196.232:8800/rtp/239.49.0.82:8000
-#EXTINF:-1 tvg-id="26" tvg-name="CCTV4K" group-title="4K频道",CCTV 4K
 http://183.162.104.35:8888/rtp/238.1.79.23:4296
 #EXTINF:-1 tvg-id="88" tvg-name="浙江卫视" group-title="4K频道",浙江卫视 4K
 http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 #EXTINF:-1 tvg-id="88" tvg-name="浙江卫视" group-title="4K频道",浙江卫视 4K
 http://xurishangcheng.top:10888/rtp/239.49.1.63:8000
 #EXTINF:-1 tvg-id="88" tvg-name="浙江卫视" group-title="4K频道",浙江卫视 4K
-http://124.77.177.44:5555/rtp/233.18.204.229:5140
+http://180.157.159.50:34022/rtp/233.18.204.229:5140
 #EXTINF:-1 tvg-id="81" tvg-name="湖南卫视" group-title="4K频道",湖南卫视 4K
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="湖南卫视" group-title="4K频道",湖南卫视 4K
 http://xurishangcheng.top:10888/rtp/239.49.1.67:8000
 #EXTINF:-1 tvg-id="81" tvg-name="湖南卫视" group-title="4K频道",湖南卫视 4K
-http://124.77.177.44:5555/rtp/233.18.204.227:5140
+http://180.157.159.50:34022/rtp/233.18.204.227:5140
 #EXTINF:-1 tvg-id="91" tvg-name="江苏卫视" group-title="4K频道",江苏卫视 4K
 http://xurishangcheng.top:10888/rtp/239.49.1.61:8000
 #EXTINF:-1 tvg-id="91" tvg-name="江苏卫视" group-title="4K频道",江苏卫视 4K
-http://124.77.177.44:5555/rtp/233.18.204.226:5140
+http://180.157.159.50:34022/rtp/233.18.204.226:5140
 #EXTINF:-1 tvg-id="80" tvg-name="东方卫视" group-title="4K频道",东方卫视 4K
 http://xurishangcheng.top:10888/rtp/239.49.1.69:8000
 #EXTINF:-1 tvg-id="80" tvg-name="东方卫视" group-title="4K频道",东方卫视 4K
-http://124.77.177.44:5555/rtp/233.18.204.224:5140
+http://180.157.159.50:34022/rtp/233.18.204.224:5140
 #EXTINF:-1 tvg-id="90" tvg-name="北京卫视" group-title="4K频道",北京卫视 4K
 http://xurishangcheng.top:10888/rtp/239.49.0.42:8000
 #EXTINF:-1 tvg-id="90" tvg-name="北京卫视" group-title="4K频道",北京卫视 4K
-http://124.77.177.44:5555/rtp/233.18.204.209:5140
+http://180.157.159.50:34022/rtp/233.18.204.209:5140
 #EXTINF:-1 tvg-id="89" tvg-name="山东卫视" group-title="4K频道",山东卫视 4K
 http://xurishangcheng.top:10888/rtp/239.49.1.71:8000
 #EXTINF:-1 tvg-id="89" tvg-name="山东卫视" group-title="4K频道",山东卫视 4K
-http://124.77.177.44:5555/rtp/233.18.204.228:5140
+http://180.157.159.50:34022/rtp/233.18.204.228:5140
 #EXTINF:-1 tvg-id="78" tvg-name="四川卫视" group-title="4K频道",四川卫视 4K
 http://xurishangcheng.top:10888/rtp/239.49.1.65:8000
 #EXTINF:-1 tvg-id="78" tvg-name="四川卫视" group-title="4K频道",四川卫视 4K
-http://124.77.177.44:5555/rtp/233.18.204.225:5140
+http://180.157.159.50:34022/rtp/233.18.204.225:5140
 #EXTINF:-1 tvg-id="82" tvg-name="广东卫视" group-title="4K频道",广东卫视 4K
 http://xurishangcheng.top:10888/rtp/239.49.1.24:8000
 #EXTINF:-1 tvg-id="82" tvg-name="广东卫视" group-title="4K频道",广东卫视 4K
-http://124.77.177.44:5555/rtp/233.18.204.218:5140
+http://180.157.159.50:34022/rtp/233.18.204.218:5140
 #EXTINF:-1 tvg-id="83" tvg-name="深圳卫视" group-title="4K频道",深圳卫视 4K
 http://xurishangcheng.top:10888/rtp/239.49.1.27:8000
 #EXTINF:-1 tvg-id="83" tvg-name="深圳卫视" group-title="4K频道",深圳卫视 4K
-http://124.77.177.44:5555/rtp/233.18.204.219:5140
+http://180.157.159.50:34022/rtp/233.18.204.219:5140
 
 
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" group-title="体育频道",CCTV5 体育
@@ -213,7 +211,7 @@ http://125.123.141.122:44022/rtp/233.50.201.197:5140
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" group-title="体育频道",CCTV5 体育
 http://xurishangcheng.top:10888/rtp/239.49.8.75:8000
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" group-title="体育频道",CCTV5 体育
-http://124.77.177.44:5555/rtp/233.18.204.71:5140
+http://180.157.159.50:34022/rtp/233.18.204.71:5140
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" group-title="体育频道",CCTV5+ 体育赛事
 http://183.129.255.66:8480/hls/6/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" group-title="体育频道",CCTV5+ 体育赛事
@@ -221,7 +219,7 @@ http://125.123.141.122:44022/rtp/233.50.201.220:5140
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" group-title="体育频道",CCTV5+ 体育赛事
 http://xurishangcheng.top:10888/rtp/239.49.8.18:9610
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" group-title="体育频道",CCTV5+ 体育赛事
-http://124.77.177.44:5555/rtp/233.18.204.67:5140
+http://180.157.159.50:34022/rtp/233.18.204.67:5140
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV16" group-title="体育频道",CCTV16 奥林匹克
 http://183.129.255.66:8480/hls/17/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV16" group-title="体育频道",CCTV16 奥林匹克
@@ -233,14 +231,14 @@ http://125.123.141.122:44022/rtp/233.50.201.63:5140
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV16" group-title="体育频道",CCTV16 奥林匹克 4K
 http://xurishangcheng.top:10888/rtp/239.49.0.109:8000
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV16" group-title="体育频道",CCTV16 奥林匹克 4K
-http://124.77.177.44:5555/rtp/233.18.204.215:5140
+http://180.157.159.50:34022/rtp/233.18.204.215:5140
 
 #EXTINF:-1 tvg-id="144" tvg-name="风云足球" group-title="体育频道",CCTV 风云足球
-http://124.77.177.44:5555/rtp/233.18.204.176:5140
+http://180.157.159.50:34022/rtp/233.18.204.176:5140
 #EXTINF:-1 tvg-id="144" tvg-name="风云足球" group-title="体育频道",CCTV 风云足球
 http://183.162.104.35:8888/rtp/238.1.79.57:4592
 #EXTINF:-1 tvg-id="170" tvg-name="五星体育" group-title="体育频道",五星体育
-http://124.77.177.44:5555/rtp/233.18.204.58:5140
+http://180.157.159.50:34022/rtp/233.18.204.58:5140
 
 
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" group-title="少儿动画",CCTV14 少儿
