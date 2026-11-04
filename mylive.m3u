@@ -76,6 +76,8 @@ http://125.125.134.113:8888/rtp/233.50.200.113:5140
 http://125.125.143.215:8888/rtp/233.50.200.113:5140
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" group-title="央视频道",CCTV17 农业农村
 http://xurishangcheng.top:10888/rtp/239.49.8.52:9810
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" group-title="央视频道",CCTV17 农业农村
+http://180.157.159.50:34022/rtp/233.18.204.83:5140
 
 
 #EXTINF:-1 tvg-id="88" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
